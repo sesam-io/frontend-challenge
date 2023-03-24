@@ -45,7 +45,7 @@ You can choose the layout of the Base page and the User page, how big the Cards 
 # Notes
 - do not hesitate to ask any questions
 - don't worry if you can't finish all aspects of the task - make notes on where you got stuck and why
-- you don't have to spend too much time making it look pretty - just use some basic CSS to make the UI clear and readable
+- you can spend as little or as much time making it look pretty - but it's important that the UI is clear, consistent and readable
 - we recommend using `fetch` for getting the user data
 
 
